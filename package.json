@@ -1,0 +1,30 @@
+{
+  "name": "sql-track-down",
+  "version": "1.0.0",
+  "description": "As of right now, nothing in here works.",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seafoodude/SQL-track-down.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seafoodude/SQL-track-down/issues"
+  },
+  "homepage": "https://github.com/seafoodude/SQL-track-down#readme",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "console.table": "^0.10.0",
+    "inquirer": "8.2.4",
+    "mysql2": "^2.1.0"
+  }
+}
